@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/react/static/media/prod4.40d9775a.png"
   },
   {
-    "revision": "4abcf53e103bfce2b9c0f04bf199308d",
-    "url": "/react/static/media/almarai-arabic-400-normal.4abcf53e.woff2"
-  },
-  {
     "revision": "8f837a16f2bd03b5c108b55c7aef8f29",
     "url": "/react/static/media/almarai-all-400-normal.8f837a16.woff"
+  },
+  {
+    "revision": "4abcf53e103bfce2b9c0f04bf199308d",
+    "url": "/react/static/media/almarai-arabic-400-normal.4abcf53e.woff2"
   },
   {
     "revision": "b5415b40980570e19a519270a8b2410a",
